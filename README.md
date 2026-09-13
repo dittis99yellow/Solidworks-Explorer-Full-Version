@@ -241,4 +241,4 @@ This repository serves as the official landing page for SolidWorks Explorer. The
 **Get the most recent version of SolidWorks Explorer today!**
 
 ---
-**Last updated:** 2026-09-13 20:08:42 UTC
+**Last updated:** 2026-09-13 22:47:03 UTC
